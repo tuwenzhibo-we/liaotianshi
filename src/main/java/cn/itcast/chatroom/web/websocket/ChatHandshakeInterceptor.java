@@ -21,7 +21,7 @@ import cn.itcast.chatroom.domain.User;
 public class ChatHandshakeInterceptor implements HandshakeInterceptor{
 
 	/**
-     * 握手之前，若返回false，则不建立链接ww
+     * 握手之前，若返回false，则不建立链接ww3363
      */
 	@Override
 	public boolean beforeHandshake(ServerHttpRequest request, ServerHttpResponse response, WebSocketHandler wsHandler,
