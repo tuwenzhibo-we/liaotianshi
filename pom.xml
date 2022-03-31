@@ -12,7 +12,7 @@
 		<!-- 编译等所有操作使用utf-8编码 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- 统一版本维护管理 -->
-		<spring.version>4.2.8.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<servlet.version>3.1.0</servlet.version>
 		<jsp.version>2.0</jsp.version>
 		<gson.version>2.7</gson.version>
